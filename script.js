@@ -1,4 +1,4 @@
-// vasco --------------------------------
+// comentei essa buedega DE NOVO--------------------------------
 
 const html = document.querySelector('html')
 const focoBt = document.querySelector('.app__card-button--foco')
